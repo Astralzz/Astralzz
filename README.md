@@ -49,14 +49,15 @@
   I focus on building clean, scalable and impactful software solutions using modern tech stacks.
 </p>
 
-<br/>
+<!-- Habilidades -->
+<h3 align="center">✨ Skills</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,php,python,dart,react,vue,next,laravel,django,spring,nodejs,flutter,reactnative,ionic,mysql,postgres,css,sass,tailwind,bootstrap,git,docker,nginx,apache" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,php,python,dart,react,vue,next,laravel,django,spring,nodejs,flutter,reactnative,ionic,mysql,postgres,ubuntu,css,sass,tailwind,bootstrap,git,docker,nginx,apache" />
 </p>
 
 <!-- Pasatiempos -->
-<h3 align="center">✨ Hobbies</h3>
+<h3 align="center">😺 Hobbies</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Gaming🎮-Story%20%7C%20Strategy%20%7C%20XBOX-blue?style=for-the-badge" />
@@ -153,7 +154,7 @@
 <h2 align="center">🎓 Education</h2>
 
 <p align="center">
-  🎓 <strong>Bachelor of Science in Software Engineering</strong><br/>
+  <strong>Bachelor of Science in Software Engineering</strong><br/>
   Universidad Autónoma de Guerrero | 2019 – 2023
 </p>
 
