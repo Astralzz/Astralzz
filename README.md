@@ -56,13 +56,12 @@
 </p>
 
 <!-- Pasatiempos -->
-<h3 align="center">✨ Fun Facts & Hobbies</h3>
+<h3 align="center">✨ Hobbies</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Gaming🎮-Story%20%7C%20Strategy%20%7C%20FPS-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gaming🎮-Story%20%7C%20Strategy%20%7C%20XBOX-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Anime🍿-Shonen%20%7C%20Sci--Fi%20%7C%20Slice%20of%20Life-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Coding👨‍💻-Side%20Projects%20%7C%20Open%20Source-06B6D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI🤖-LLMs%20%7C%20Prompt%20Engineering%20%7C%20R&D-green?style=for-the-badge" />
 </p>
 
 ---
@@ -165,7 +164,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spanish-Native-E53935?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/English-Intermediate+-1E88E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/English-A2+-1E88E5?style=for-the-badge" />
 </p>
 
 ---
