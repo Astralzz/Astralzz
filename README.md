@@ -100,7 +100,7 @@
     <td align="center" valign="top" width="33%">
       <br/>
       <br/>
-      <a href="https://carconnect.com.ec/">🚗 CarConnect</a><br/>
+      <a href="https://carconnect.com.ec/"><img src="https://carconnect.com.ec/wp-content/uploads/2022/12/Logo-CarConnect-Web-Header.jpg" height="58" alt="DealNoty app icon" /></a>    <br/>
       <strong><a href="https://carconnect.com.ec/">CarConnect</a></strong><br/>
       Production full-stack work across web, mobile, backend, and AWS cloud infrastructure.<br/>
       <strong>TypeScript · React · React Native · Next.js · MongoDB · AWS</strong>
